@@ -29,7 +29,8 @@ cd Checkers
 ```
 
 ```bash
-python -m venv venv
+python3 -m venv venv        #Linux/Mac
+python -m venv venv         #Windows
 ```
 
 ```bash
