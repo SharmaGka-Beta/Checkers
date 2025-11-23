@@ -49,7 +49,7 @@ python main.py      #Windows
 Make sure to add the virtual environment inside the main directory and run the code from inside the main directory.
 Installation of Pygame is required only for running the background music without which the game will still run seamlessly.
 
-### **Files**
+### **Main Files**
 
 Welcome Screen - GUI of the Main Menu  
 Board - GUI of the game  
