@@ -51,10 +51,10 @@ Installation of Pygame is required only for running the background music without
 
 ### **Files**
 
-Welcome Screen - GUI of the Main Menu
-Board - GUI of the game
-Game Logic - Core logic of the game
-Game State - Updating GUI
+Welcome Screen - GUI of the Main Menu  
+Board - GUI of the game  
+Game Logic - Core logic of the game  
+Game State - Updating GUI  
 
 
 
